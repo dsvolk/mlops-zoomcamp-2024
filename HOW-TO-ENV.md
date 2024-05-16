@@ -13,6 +13,7 @@ Assuming you have Homebrew installed, and you are using zsh. For bash, replace `
 	- [ ] `pyenv install 3.10.14`
 - create local env named "mlz"
 	- [ ] `pyenv virtualenv 3.10.14 mlz`
+    - [ ] `cd <my-project-dir>`
     - [ ] `pyenv local mlz`
 
 It turned out to somehow conflict with my Mamba, but in VS Code I can still select the Python interpreter to be the one from the virtual environment. So I guess it's fine.
