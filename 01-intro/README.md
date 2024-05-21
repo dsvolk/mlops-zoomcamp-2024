@@ -2,7 +2,7 @@
 ## Main part
 - [Original Jupyter notebook from the lecture](duration-prediction.ipynb)
 - [Homework tasks](homework.md)
-- [My homework solutions (basic DictVEctorizer+Linear model)](homework-solution.ipynb)
+- [My homework solutions (basic DictVectorizer+Linear model)](homework-solution.ipynb)
 
 ## Extra materials
 ### Experiment: lookup table instead of DictVEctorizer+Linear
