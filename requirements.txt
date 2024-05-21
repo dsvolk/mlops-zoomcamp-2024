@@ -1,0 +1,10 @@
+jupyter
+pyarrow
+pandas
+seaborn
+matplotlib
+scikit-learn
+mlflow
+hyperopt
+xgboost
+click
