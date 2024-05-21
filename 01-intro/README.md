@@ -1,3 +1,3 @@
 # 01-intro
-- [[duration-prediction.ipynb|Original example from the lecture]]
-- [[homework|Homework tasks]]
+- [Original example from the lecture](duration-prediction.ipynb)
+- [Homework tasks](homework.md)
